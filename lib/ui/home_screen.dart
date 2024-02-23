@@ -63,7 +63,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Text(
                     'Generate QR Code',
                     style: TextStyle(
-                      fontSize: 4.sw,
+                      fontSize: 5.sw,
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
                       letterSpacing: 0.5,
